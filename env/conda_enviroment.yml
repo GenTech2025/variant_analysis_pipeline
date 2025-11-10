@@ -1,4 +1,4 @@
-name: variant-pipeline
+name: variant-analysispipeline
 channels:
   - bioconda
   - conda-forge
