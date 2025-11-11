@@ -3,7 +3,7 @@
 # Download Yeast (R64-1-1) Reference Genome and Annotation files from Ensembefungi
 
 # Set directories
-REF_DATA_DIR = "../../raw_data/reference_genome"
+REF_DATA_DIR="../../raw_data/reference_genome"
 
 # Create output directory if it doesn't exist
 mkdir -p "$REF_DATA_DIR"

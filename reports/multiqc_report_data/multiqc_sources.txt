@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR6728143_1	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728143_1_fastqc.zip
+FastQC	all_sections	SRR6728148_2	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728148_2_fastqc.zip
+FastQC	all_sections	SRR6728148_1	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728148_1_fastqc.zip
+FastQC	all_sections	SRR6728147_1	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728147_1_fastqc.zip
+FastQC	all_sections	SRR6728146_2	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728146_2_fastqc.zip
+FastQC	all_sections	SRR6728143_2	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728143_2_fastqc.zip
+FastQC	all_sections	SRR6728147_2	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728147_2_fastqc.zip
+FastQC	all_sections	SRR6728145_2	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728145_2_fastqc.zip
+FastQC	all_sections	SRR6728146_1	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728146_1_fastqc.zip
+FastQC	all_sections	SRR6728144_1	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728144_1_fastqc.zip
+FastQC	all_sections	SRR6728144_2	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728144_2_fastqc.zip
+FastQC	all_sections	SRR6728145_1	/home/sourav-roy/Desktop/portfolio-projects/variant_analysis_pipeline/reports/fastqc/SRR6728145_1_fastqc.zip

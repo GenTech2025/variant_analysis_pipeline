@@ -1,12 +1,13 @@
-name: variant-analysispipeline
+name: variant-analysis-pipeline
 channels:
   - bioconda
   - conda-forge
   - defaults
 
 dependencies:
-  # Required packages
+  # Required packages for variant analysis pipeline
   - fastqc=0.11.9
+  - trimmomatic=0.39
   - bwa=0.7.17
   - picard=2.27.5
   - multiqc=1.12
@@ -14,8 +15,15 @@ dependencies:
   - snpeff=4.3g       # includes SnpSift
   - bcftools=1.14
 
-  # Optional/Extras
+  # Essential utilities
   - samtools=1.15.1
   - bedtools=2.30.0
 
-# CLI Command to create the enviroment: conda env create -f conda_enviroment.yml
+  # Additional helpful tools
+  - python>=3.8
+  # OpenJDK will be automatically installed as a dependency of GATK4 and other Java tools
+
+# CLI Commands:
+# Create environment: conda env create -f conda_enviroment.yml
+# Remove environment: conda env remove -n variant-analysispipeline
+# Update environment: conda env update -f conda_enviroment.yml --prune

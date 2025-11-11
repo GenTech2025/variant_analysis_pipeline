@@ -1,1 +1,4 @@
 *.fastq.gz
+./CLAUDE.md
+*.bam
+*.bam.bai
