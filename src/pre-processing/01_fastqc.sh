@@ -12,6 +12,6 @@ mkdir -p "$OUTPUT_DIR"
 
 # Run FastQC on all .fastq.gz files
 echo "Running FastQC on all FASTQ files..."
-fastqc "$RAW_DATA_DIR"/*.fastq.gz -o "$OUTPUT_DIR" -t 4
+fastqc "$RAW_DATA_DIR"/*.fastq.gz -o "$OUTPUT_DIR" -t 6
 
 echo "FastQC analysis complete. Results saved to $OUTPUT_DIR"
