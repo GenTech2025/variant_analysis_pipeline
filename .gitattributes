@@ -18,4 +18,5 @@
 *.fai binary
 
 # Ensure the repo shows the correct language
-static/* linguist-vendored
+* linguist-vendored
+*.js linguist-vendored=false
