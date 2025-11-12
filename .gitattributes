@@ -16,3 +16,6 @@
 *.fastq.gz binary
 *.fa binary
 *.fai binary
+
+# Ensure the repo shows the correct language
+static/* linguist-vendored
