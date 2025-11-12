@@ -1,7 +1,9 @@
+# Ensure the big data files are not being tracked
 *.fastq.gz
-./CLAUDE.md
 *.bam
 *.bam.bai
 *.bai
 *.txt
+
+# Ensure personal notes stay personal
 *.md
